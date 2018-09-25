@@ -1,5 +1,8 @@
 _repo: Sexual-Neuroses_57331
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57331-h/images/cover.jpg
 creator:
   author:
     agent_name: Kent, J. T. (James Tyler)
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49321
     wikipedia: https://en.wikipedia.org/wiki/James_Tyler_Kent
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57331#Sexual-Neuroses
 gutenberg_issued: '2018-06-15'
 gutenberg_type: Text
 identifiers:
